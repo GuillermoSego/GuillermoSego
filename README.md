@@ -2,9 +2,8 @@
 
 ### 👨‍💻 Machine Learning Engineer | 🧠 NLP Researcher
 
-Soy Memo, soy estudiante de Maestría en Ciencias Computacionales, apasionado por la inteligencia artificial, el procesamiento del lenguaje natural (NLP), la física y la divulgación científica. Actualmente trabajo como **Machine Learning Engineer en PeopleOpti**, donde desarrollo soluciones basadas en LLMs, RAGs y análisis de datos. También participo activamente en competencias de NLP como **SemEval y EXIST**.
+Soy Memo, soy estudiante de Maestría en Ciencias Computacionales en el Centro de Investigación en Matemáticas (CIMAT). Soy apasionado por la inteligencia artificial, el procesamiento del lenguaje natural (NLP), la física y la divulgación científica. Actualmente trabajo como **Machine Learning Engineer en PeopleOpti**, donde desarrollo soluciones basadas en LLMs, RAGs y análisis de datos. También participo activamente en competencias de NLP como **SemEval y EXIST**.
 
----
 
 ## 🚀 Proyectos destacados
 
@@ -20,7 +19,6 @@ Soy Memo, soy estudiante de Maestría en Ciencias Computacionales, apasionado po
 - 📊 **[Optimization](https://github.com/GuillermoSego/Optimization)**  
   Implementaciones de algoritmos evolutivos y heurísticos para resolver problemas de optimización.
 
----
 
 ## 📚 Experiencia y habilidades
 
@@ -30,15 +28,22 @@ Soy Memo, soy estudiante de Maestría en Ciencias Computacionales, apasionado po
 - 📈 **Herramientas de visualización**: Streamlit, Plotly, Matplotlib, Seaborn  
 - 🧪 **Enfoque actual**: Optimización de prompts para LLMs, RAGs personalizados, explainability con SHAP
 
----
 
 ## 🏆 Publicaciones y competencias
 
-- 📝 **SemEval 2025 - Task 11**: Optimización de prompts vía algoritmos genéticos para detección de emociones.
-- 🎯 **CLEF - EXIST 2025**: Clasificación de discurso sexista en español.
-- 📖 Coautor de artículo científico sobre micromecánica y computación científica.
+* 📝 **ACL SemEval 2025 - Task 11**
+  📄 *“NLP-Cimat at SemEval-2025 Task 11: Prompt Optimization for LLMs via Genetic Algorithms and Systematic Mutation applied on Emotion Detection”*
+  Optimización de prompts usando algoritmos genéticos con mutaciones sistemáticas para mejorar la detección de emociones en texto.
 
----
+* 🎯 **CLEF - EXIST 2025**
+  📄 *“Leveraging Reasoning of Auto-Revealed Insights via Knowledge Injection and Evolutionary Prompting for Sexism Analysis”*
+  Propuesta de clasificación de discurso sexista mediante inyección de conocimiento y evolución de prompts en tareas multi-etiqueta.
+
+* 🧪 **Artículo científico en micromecánica**
+  📄 *“Microfluidic droplet generation: an experimental study of size distribution using probability density function analysis”*
+  Publicado en *Journal of Micromechanics and Microengineering*, Vol. 35, Nº 1, 2024
+  Estudio experimental sobre la distribución de tamaños de microgotas generadas por microfluidos, con aplicaciones en farmacéutica y electrónica blanda.
+
 
 ## 🧪 En curso...
 
@@ -46,17 +51,12 @@ Soy Memo, soy estudiante de Maestría en Ciencias Computacionales, apasionado po
 - 🧬 Experimentos de evolución de prompts para tareas complejas de NLP
 - 🤖 Entrenamiento de un sistema RAG con decisiones controladas por grafos
 
----
 
 ## 🌐 Contacto
 
 - 📍 Guanajuato, México  
 - 💼 [LinkedIn](https://www.linkedin.com/in/guillermo-segura-g%C3%B3mez-19a61221a/) 
-- ✉️ guillermosegogomez@gmail.com  
+- ✉️ gu.seguragomez@gmail.com  
 - 🧪 [Google Scholar](https://scholar.google.com/citations?user=LqpGIucAAAAJ&hl=es&oi=ao)  
 
----
-
 > “El conocimiento debe compartirse, la ciencia debe difundirse, y la tecnología debe servir a las personas.”
-
-
