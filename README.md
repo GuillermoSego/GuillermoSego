@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Machine Learning Engineer | 🧠 NLP Researcher
 
-Soy Memo, tengo una Maestría en Ciencias Computacionales por el Centro de Investigación en Matemáticas (CIMAT). Soy apasionado por la inteligencia artificial, el procesamiento del lenguaje natural (NLP), la física y la divulgación científica. Actualmente trabajo como **Senior AI Engineer**, donde desarrollo soluciones basadas en LLMs, RAGs y análisis de datos. También participo activamente en competencias de NLP como **SemEval y EXIST**.
+Soy Memo, tengo una Maestría en Ciencias Computacionales por el Centro de Investigación en Matemáticas (CIMAT). Soy apasionado por la inteligencia artificial, el procesamiento del lenguaje natural (NLP), la física y la divulgación científica. Actualmente trabajo como **AI Data Scientist** en Klar, donde desarrollo soluciones basadas en LLMs, RAGs y análisis de datos. También participo activamente en competencias de NLP como **SemEval y EXIST**.
 
 
 ## 🚀 Proyectos destacados
