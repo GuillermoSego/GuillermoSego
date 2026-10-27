@@ -1,62 +1,87 @@
-# 👋 Hola!
+<div align="center">
 
-### 👨‍💻 Machine Learning Engineer | 🧠 NLP Researcher
+# Guillermo Segura-Gómez
 
-Soy Memo, tengo una Maestría en Ciencias Computacionales por el Centro de Investigación en Matemáticas (CIMAT). Soy apasionado por la inteligencia artificial, el procesamiento del lenguaje natural (NLP), la física y la divulgación científica. Actualmente trabajo como **AI Data Scientist** en Klar, donde desarrollo soluciones basadas en LLMs, RAGs y análisis de datos. También participo activamente en competencias de NLP como **SemEval y EXIST**.
+**AI Data Scientist · Machine Learning Engineer · NLP Researcher**
 
+*From research ideas to reliable, production-ready AI systems.*
 
-## 🚀 Proyectos destacados
+MSc in Computer Science (CIMAT) · Bachelor's degree in Physics · Based in Mexico
 
-- 🔬 **[Natural-Language-Processing](https://github.com/GuillermoSego/Natural-Language-Processing)**  
-  Apuntes, experimentos y modelos de NLP, incluyendo transformers, BERT, y tareas de clasificación de texto.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo%20Segura-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-sego/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=LqpGIucAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--3261--0995-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-3261-0995)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:gu.seguragomez@gmail.com)
 
-- 🧠 **[ComputerVision](https://github.com/GuillermoSego/ComputerVision)**  
-  Modelos de visión por computadora aplicados a detección de objetos y segmentación.
+</div>
 
-- 🧪 **[TSF](https://github.com/GuillermoSego/TSF)**  
-  Apuntes y experimentos de temas selectos de física durante la carrera.
+---
 
-- 📊 **[Optimization](https://github.com/GuillermoSego/Optimization)**  
-  Implementaciones de algoritmos evolutivos y heurísticos para resolver problemas de optimización.
+## About me
 
+I'm an **AI Data Scientist at [Klar](https://www.klar.mx/)**, working at the intersection of **machine learning, financial risk, and applied AI**. I enjoy taking ideas beyond notebooks: designing data pipelines, evaluating models rigorously, and turning predictions into tools people can actually use.
 
-## 📚 Experiencia y habilidades
+My background spans **computer science and physics**, and my research focuses on **natural language processing, evolutionary computation, and large language models**. I am particularly interested in making AI systems more **reliable, interpretable, and efficient**.
 
-- ⚙️ **Lenguajes**: Python, C, HTML, SQL  
-- 🧰 **Frameworks y librerías**: PyTorch, scikit-learn, LangChain, LangGraph, Hugging Face, OpenCV  
-- ☁️ **Infraestructura**: Azure ML, WSL, MLflow, Docker  
-- 📈 **Herramientas de visualización**: Streamlit, Plotly, Matplotlib, Seaborn  
-- 🧪 **Enfoque actual**: Optimización de prompts para LLMs, RAGs personalizados, explainability con SHAP
+### What I work on
 
+- **Production ML:** End-to-end workflows for data preparation, feature engineering, predictive scoring, and evaluation.
+- **Applied AI for financial services:** ML-powered risk assessment and automation that supports compliance and investigation workflows.
+- **LLM systems:** Structured prompting, retrieval-augmented generation, and hybrid architectures combining model outputs with deterministic logic.
+- **Research:** Evolutionary prompt optimization, context calibration, multilingual NLP, and model robustness.
 
-## 🏆 Publicaciones y competencias
+> Most of my industry contributions are in private repositories. The projects below are public examples of the engineering and research areas I work in.
 
-* 📝 **ACL SemEval 2025 - Task 11**
-  📄 *“NLP-Cimat at SemEval-2025 Task 11: Prompt Optimization for LLMs via Genetic Algorithms and Systematic Mutation applied on Emotion Detection”*
-  Optimización de prompts usando algoritmos genéticos con mutaciones sistemáticas para mejorar la detección de emociones en texto.
+## Selected projects
 
-* 🎯 **CLEF - EXIST 2025**
-  📄 *“Leveraging Reasoning of Auto-Revealed Insights via Knowledge Injection and Evolutionary Prompting for Sexism Analysis”*
-  Propuesta de clasificación de discurso sexista mediante inyección de conocimiento y evolución de prompts en tareas multi-etiqueta.
+| Project | What it demonstrates |
+| --- | --- |
+| **[Expense Policy Validator](https://github.com/GuillermoSego/policy_validator)** | A hybrid LLM + deterministic rules system for receipt classification and evidence-backed policy decisions, with reproducible evaluation and automated tests. |
+| **[CostHandler](https://github.com/GuillermoSego/CostHandler)** | An AI-powered personal finance application built with Go: conversational expense tracking through Telegram, structured classification, REST APIs, and a web dashboard. |
+| **[Natural Language Processing](https://github.com/GuillermoSego/Natural-Language-Processing)** | Notes and experiments on NLP, language models, and text classification. |
+| **[Computer Vision](https://github.com/GuillermoSego/ComputerVision)** | Computer vision experiments and learning resources, including detection and segmentation. |
+| **[Optimization](https://github.com/GuillermoSego/Optimization)** | Implementations and experiments involving optimization methods and evolutionary algorithms. |
 
-* 🧪 **Artículo científico en micromecánica**
-  📄 *“Microfluidic droplet generation: an experimental study of size distribution using probability density function analysis”*
-  Publicado en *Journal of Micromechanics and Microengineering*, Vol. 35, Nº 1, 2024
-  Estudio experimental sobre la distribución de tamaños de microgotas generadas por microfluidos, con aplicaciones en farmacéutica y electrónica blanda.
+## Research & publications
 
+My research explores how **optimization and reasoning strategies can improve language-model behavior**. I have also co-authored experimental work in microfluidics, reflecting my earlier training in physics.
 
-## 🧪 En curso...
+**2025 · ACL SemEval**  
+[**NLP-Cimat at SemEval-2025 Task 11: Prompt Optimization for LLMs via Genetic Algorithms and Systematic Mutation applied on Emotion Detection**](https://aclanthology.org/2025.semeval-1.218/)  
+*Evolutionary prompt optimization with structured mutation strategies for multilingual emotion detection.*
 
-- 🔁 Automatización de pipelines ML en Azure
-- 🧬 Experimentos de evolución de prompts para tareas complejas de NLP
-- 🤖 Entrenamiento de un sistema RAG con decisiones controladas por grafos
+**2025 · CLEF / EXIST**  
+[**Leveraging Reasoning of Auto-Revealed Insights via Knowledge Injection and Evolutionary Prompting for Sexism Analysis**](https://ceur-ws.org/Vol-4038/paper_168.pdf)  
+*Knowledge injection, evolutionary prompting, and language-model reasoning for online sexism analysis.*
 
+**2025 · Journal of Micromechanics and Microengineering**  
+[**Microfluidic droplet generation: an experimental study of size distribution using probability density function analysis**](https://doi.org/10.1088/1361-6439/ad983c)  
+*Experimental analysis of microdroplet size distributions using probability-density methods.*
 
-## 🌐 Contacto
+[**Explore my research on Google Scholar →**](https://scholar.google.com/citations?user=LqpGIucAAAAJ)
 
-- 📍 Guanajuato, México  
-- 💼 [LinkedIn](https://www.linkedin.com/in/guillermo-segura-g%C3%B3mez-19a61221a/) 
-- ✉️ gu.seguragomez@gmail.com  
-- 🧪 [Google Scholar](https://scholar.google.com/citations?user=LqpGIucAAAAJ&hl=es&oi=ao)  
+## Technical toolkit
 
-> “El conocimiento debe compartirse, la ciencia debe difundirse, y la tecnología debe servir a las personas.”
+| Area | Tools & technologies |
+| --- | --- |
+| **Languages** | Python · SQL · Go · C |
+| **Machine learning** | PyTorch · scikit-learn · Hugging Face · OpenCV |
+| **LLMs & NLP** | LangChain · LangGraph · RAG · Prompt optimization |
+| **Engineering & MLOps** | Docker · MLflow · Azure ML · Git |
+| **Analysis & visualization** | Pandas · Matplotlib · Plotly · Streamlit |
+
+## Currently exploring
+
+- **Data-efficient prompt optimization** using evolutionary search and representative subsets.
+- **Context calibration** and evaluation strategies for more dependable LLM behavior.
+- **Practical AI engineering** at the intersection of predictive ML, language models, and explainable decisions.
+
+---
+
+<div align="center">
+
+**Open to research conversations, technical collaboration, and exchanging ideas about applied AI.**
+
+*Knowledge should be shared. Science should be communicated. Technology should serve people.*
+
+</div>
